@@ -1,7 +1,8 @@
-Hi there 👋
-C# developer using unity.
+Hi there 👋\n
+C# developer using unity.\n
 Attending GSM
 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GBKPM)](https://github.com/GBKPM/github-readme-stats)
 <!--
 **GBKPM/GBKPM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
